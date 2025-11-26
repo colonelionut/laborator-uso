@@ -1,1 +1,1 @@
-Faceti fork, adaugati un fisier si apoi faceti un PR!
+Faceti fork, adaugati un fisier si apoi faceti un PR!I come with conflicts?
